@@ -51,5 +51,4 @@ def post_table(user: User):
 @app.get("/weather")
 def get_weather():
     data = weather.get_gdl_wheather()
-    print(data)
     return Response(json.dumps(data), status_code=200)
