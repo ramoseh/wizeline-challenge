@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 Create a .env file and add a openweathermap api_key
 
 ```
-API_KEY=<your-apy-key>
+API_KEY=<your-api-key>
 ```
 
 Run next command to star server
