@@ -11,7 +11,7 @@ Install the dependencies and devDependencies and start the server.
 $ pip install -r requirements.txt
 ```
 
-Create a .env file and add a openweathermap api_key
+Create a .env file and add a [openweathermap](https://openweathermap.org/api) api_key
 
 ```
 API_KEY=<your-api-key>
